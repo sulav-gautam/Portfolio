@@ -23,7 +23,7 @@ export default function RootLayout({ children }) {
         <meta property="og:title" content={metadata.title} />
         <meta property="og:description" content={metadata.description} />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.yourportfolio.com" /> {/* Replace with your actual URL */}
+        <meta property="og:url" content="https://sulav-gautam.vercel.app/" /> {/* Replace with your actual URL */}
         <meta property="og:image" content="/profile-pic.png" /> {/* Use relative path to the image in the public directory */}
         <meta property="og:image:alt" content={metadata.title} /> {/* Replace with an appropriate alt text */}
         <meta property="og:site_name" content="Sulav Gautam" />
