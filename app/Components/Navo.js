@@ -28,7 +28,7 @@ const Navo = () => {
         </div>
       </nav>
       <nav id="hamburger-nav">
-        <div className="logo">John Doe</div>
+        <div className="logo">Sulav Gautam</div>
         <div className="hamburger-menu">
           {/* Hamburger icon with onClick event */}
           <div
